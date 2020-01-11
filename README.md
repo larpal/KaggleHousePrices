@@ -1,1 +1,3 @@
 # KaggleHousePrices
+
+This notebook ([fully rendered view](https://nbviewer.jupyter.org/github/larpal/KaggleHousePrices/blob/master/house_prices_XGB_NN.ipynb)) is my first attempt at the Kaggle challenge [House Price: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). It combines Lasso, XGB and a feedforward Neural Network and achieves a public leaderboard score of approx. 0.1203.
